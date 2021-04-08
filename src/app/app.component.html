@@ -1,0 +1,12 @@
+<!-- Toolbar -->
+<div class="content" role="main">
+
+  <div class="card-container">
+    <ul>
+      <li *ngFor="let res of results" ng-if="!res">{{res}}</li>
+    </ul>
+    <button (click)="process()">Process</button>
+  </div>
+</div>
+
+<router-outlet></router-outlet>
