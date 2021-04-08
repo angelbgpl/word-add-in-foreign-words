@@ -1,0 +1,7 @@
+#unique foreign words rate-0.0066;
+#not unique foreign words rate-0.0190;
+#Произход:
+незнаен-4
+гръцки-1
+#Област:
+неидентифицирана-5

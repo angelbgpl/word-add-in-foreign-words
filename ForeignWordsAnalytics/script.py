@@ -1,0 +1,7 @@
+import sys
+import main
+
+# print('Hello from python')
+# print('First param:'+sys.argv[1]+'!')
+
+# exec()

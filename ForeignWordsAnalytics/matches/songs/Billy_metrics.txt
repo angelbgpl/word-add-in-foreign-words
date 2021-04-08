@@ -1,0 +1,6 @@
+#unique foreign words rate-0.0031;
+#not unique foreign words rate-0.0031;
+#Произход:
+#Произход:гръцки-1;
+#Област:
+#Област:неидентифицирана-1;

@@ -1,0 +1,6 @@
+#unique foreign words rate-0.0056;
+#not unique foreign words rate-0.0056;
+#Произход:
+#Произход:незнаен-1;
+#Област:
+#Област:неидентифицирана-1;

@@ -1,0 +1,4 @@
+#unique foreign words rate-0.0000;
+#not unique foreign words rate-0.0000;
+#Произход:
+#Област:
